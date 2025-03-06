@@ -1,13 +1,3 @@
-<h1 align="left">Camily Kálita</h1>
-
-###
-
-<div align="left">
-  <img height="400" src="https://github.com/user-attachments/assets/e6ea40e3-92bd-4342-bebe-7995ce33aa9f"  />
-</div>
-
-###
-
 <h1 align="left">Techs</h1>
 
 ###
@@ -24,6 +14,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img height="400" src="https://github.com/user-attachments/assets/e6ea40e3-92bd-4342-bebe-7995ce33aa9f"  />
 </div>
 
 ###
