@@ -7,9 +7,8 @@
 
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
-<a href="https://twitter.com/ew_dz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ew_dz0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/enzoweder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzoweder" height="30" width="40" /></a>
-<a href="https://instagram.com/ew_dz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ew_dz0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/camilykalita/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilykalita" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cammykka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cammykka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,11 +26,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CAMMYKKA/CAMMYKKA/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CAMMYKKA/CAMMYKKA/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CAMMYKKA/CAMMYKKA/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
