@@ -1,6 +1,12 @@
 <h1 align="center">Olá 👋, eu sou Camily Kálita! </h1>
 <h3 align="center">Sistemas de Informação - UFU</h3>
 
+<p align="left"> Em 2023-2, ingressei em Sistemas de Informação pela Universidade Federal de Uberlândia. Natural de Araraquara, interior de São Paulo, sempre foi meu sonho estar em uma faculdade federal, e atualmente estou o realizando com muito esforço. Desde o começo estive envolvida com projetos de extensão pertencentes ao Jovens Programadores - JP, primeiro como voluntária, e depois três vezes como bolsista. Atualmente, dou aula de Modelagem 3D para pré-adolescentes pelo Jovens Programadores, o que tornou a Modelagem 3D um dos meus hobbies. Mais sobre mim: <p></p>
+
+- 📱 Estou aprendendo **Kotlin** para desenvolvimento de aplicações para dispositivos móveis.​ 
+- 🛜​ Gosto bastante de **Desenvolvimento Web**
+- 🎨 Pratico bastante **artesanato e pintura**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CAMMYKKA&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMYKKA" /> </p>
 
 <p align="left"> <a href="https://www.instagram.com/cammykka" target="blank"><img src="https://img.shields.io/twitter/follow/cammykka?logo=twitter&style=for-the-badge" alt="cammykka" /></a> </p>
