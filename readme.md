@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Camily Kálita! </h1>
-<h3 align="center">Sou estudante de Sistemas de Informação pela Universidade Federal de Uberlândia.</h3>
+<h3 align="center">Sistemas de Informação - UFU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CAMMYKKA&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMYKKA" /> </p>
 
