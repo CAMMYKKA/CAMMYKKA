@@ -5,7 +5,7 @@
 
 - 📱 Estou aprendendo **Kotlin** para desenvolvimento de aplicações para dispositivos móveis.​ 
 - 🛜​ Gosto bastante de **Desenvolvimento Web**
-- 🎨 Pratico bastante **artesanato e pintura**
+- 🎨 No tempo livre pratico **artesanato e pintura** :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CAMMYKKA&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMYKKA" /> </p>
 
